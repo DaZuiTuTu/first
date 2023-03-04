@@ -1,2 +1,3 @@
 # first
-My first repository on GitHub
+My first repository on GitHubit 
+it is hard
